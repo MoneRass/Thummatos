@@ -1,3 +1,5 @@
+#Made by Thummatos Sribunna
+#Rock, paper, scissors with computer
 import random
 
 user_wins = 0
