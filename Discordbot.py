@@ -1,7 +1,7 @@
 import discord
 import random
 import time
-TOKEN = 'OTEyNjE5MDMwMzI4Nzk1MTk2.YZyktA.31jePEEEPYWhFFQQ8uej2SqUuc4'
+TOKEN = ''
 import webbrowser as wb
 #Made by Mr.Thummatos Sribunna
 client = discord.Client()
